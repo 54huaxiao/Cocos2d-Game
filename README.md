@@ -5,3 +5,5 @@ some interesting game in cocos2d by myself
   - a hello world demo
 * Hw9
   - a game about gold miner
+* Hw10
+  - guns girls v2.0 
