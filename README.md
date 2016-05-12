@@ -7,3 +7,5 @@ some interesting game in cocos2d by myself
   - a game about gold miner
 * Hw10
   - guns girls v2.0 
+* Hw11
+  - update Hw10
