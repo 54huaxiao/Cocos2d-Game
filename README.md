@@ -8,6 +8,8 @@ some interesting game in cocos2d by myself
 * Hw10
   - guns girls v2.0 
 * Hw11
-  - update Hw10
+  - upgrade Hw10
 * Hw12
   - Thunder plane
+* Hw13
+  - upgrade Hw12
