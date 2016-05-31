@@ -13,3 +13,5 @@ some interesting game in cocos2d by myself
   - Thunder plane
 * Hw13
   - upgrade Hw12
+* Hw14
+  - network access
